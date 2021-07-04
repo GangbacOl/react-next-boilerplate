@@ -1,4 +1,4 @@
-## TypeScript 환경 기반의 React SSR boilerplate
+## TypeScript 기반 React SSR boilerplate
 
 ### Tech List
 - TypeScript
